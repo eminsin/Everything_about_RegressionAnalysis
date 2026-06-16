@@ -53,15 +53,6 @@ Price_Prediction_with_Regression_Analysis/
 │   └── 16- Two-Stage_Least_Squares
 │   └── 17- White-Estimators
 │   └── 18- Final_Model
-├── images/
-│   └── Multicollinearity__VIF.png                                     # Visual outputs from the project
-│   └── heteroscedasticerrors__residuals_vs_fitted_values.png
-│   └── homoscedasticity__residuals_vs_fitted_values.png
-│   └── linearity__residuals_vs_area.png
-│   └── residuals_vs_age.png
-│   └── residuals_vs_area.png
-│   └── residuals_vs_rooms.png
-│   └── unweighted_and_weigtehed_model_residuals.png
 ├── README.md                                                          # Project overview (you are here)
 └── LICENSE                                                            # MIT License
 ```
